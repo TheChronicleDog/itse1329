@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="023e6dce-7e63-492a-b239-f9a379c4c5d4" name="Changes" comment="" />
+    <list default="true" id="023e6dce-7e63-492a-b239-f9a379c4c5d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week01/helloworld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week01/helloworld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.2_Variable_Declaration_and_Initialization" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.2_Variable_Declaration_and_Initialization" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.4_Name_Age_and_Annual_Income.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.4_Name_Age_and_Annual_Income.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.6_Sales_Prediction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.6_Sales_Prediction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.7_Cookie_Calorie_Calculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.7_Cookie_Calorie_Calculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.8_String_Manipulation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.8_String_Manipulation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/Marketing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/Marketing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/StarPattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/StarPattern.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.2_Magic_Dates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.2_Magic_Dates.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.3_Body_Mass_Index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.3_Body_Mass_Index.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.4_Mass_and_Weight.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.4_Mass_and_Weight.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.5_Sorted_Names.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.5_Sorted_Names.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2EoEQMsTWNDPQgf79nHpt6Cxk9M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,9 +38,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Documents/Programming Logic and Design College/Projects/Logic_And_Design/src/main/kotlin"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\Programming Logic and Design College\Projects\Logic_And_Design\src\main\kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\Programming Logic and Design College\Projects\Logic_And_Design\src\main\kotlin" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +61,16 @@
       <updated>1663253520263</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

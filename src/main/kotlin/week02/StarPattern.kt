@@ -1,0 +1,20 @@
+fun main() {
+    println("   *    ")
+    println("  ***   ")
+    println(" *****  ")
+    println("******* ")
+    println(" *****  ")
+    println("  ***   ")
+    println("   *    ")
+    //or
+    println("          *         ")
+    println("         ***        ")
+    println("        *****       ")
+    println("   ***************  ")
+    println("    *************   ")
+    println("     ***********    ")
+    println("      *********     ")
+    println("     ***********    ")
+    println("    ****** ******   ")
+    println("   *****     *****  ")
+}
