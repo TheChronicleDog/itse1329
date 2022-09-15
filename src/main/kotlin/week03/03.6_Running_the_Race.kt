@@ -22,9 +22,9 @@ fun main() {
     nameList[time2Index] = name2.capitalize()
     nameList[time3Index] = name3.capitalize()
 
-    println("First place with ${timeList.elementAt(0)} seconds : ${nameList.elementAt(0)}")
-    println("First place with ${timeList.elementAt(1)} seconds : ${nameList.elementAt(1)}")
-    println("First place with ${timeList.elementAt(2)} seconds : ${nameList.elementAt(2)}")
+    println("First place with ${timeList.elementAt(0)} minutes : ${nameList.elementAt(0)}")
+    println("First place with ${timeList.elementAt(1)} minutes : ${nameList.elementAt(1)}")
+    println("First place with ${timeList.elementAt(2)} minutes : ${nameList.elementAt(2)}")
 
 
 }
