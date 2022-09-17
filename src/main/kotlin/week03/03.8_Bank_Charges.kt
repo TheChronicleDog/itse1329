@@ -14,7 +14,7 @@ fun main() {
 fun askForInfo(questionType: String): Double {
     val scanner = Scanner(System.`in`)
     print("What was the $questionType? >> ")
-    var value = scanner.nextDouble()
+    val value = scanner.nextDouble()
     scanner.nextLine()
     return value
 }
