@@ -1,5 +1,5 @@
 import java.util.*
-
+//[REDACTED], 03.7, 9/15/22
 fun main() {
     val doesContainVegan = infoAsk("a Vegan")
     val doesContainVegetarian = infoAsk("a Vegetarian")
