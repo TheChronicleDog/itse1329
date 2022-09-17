@@ -14,7 +14,7 @@ fun recieveInfo(questionType: String): Double {
     return value
 }
 fun calculateChecksAndPrint(checkNum : Double){
-    var totalVal :Double = 10.0;
+    var totalVal = 10.0
     when {
         checkNum < 20 -> totalVal = 10 + (checkNum* .10)
         checkNum in 20.0..39.0 -> totalVal = 10 + (checkNum* .08)
