@@ -1,5 +1,5 @@
 import java.util.*
-
+//Mcfly, 4.3, 9/20/22
 fun main() {
     var startPop = inputInfo("What is the starting number of organisms? >> ")
     startPop = misInputCheck(startPop,2.0,"What is the starting number of organisms? >> ")
