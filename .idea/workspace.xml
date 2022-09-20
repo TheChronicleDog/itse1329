@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="023e6dce-7e63-492a-b239-f9a379c4c5d4" name="Changes" comment="update running the race">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.2_Variable_Declaration_and_Initialization" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.2_Variable_Declaration_and_Initialization" afterDir="false" />
+    <list default="true" id="023e6dce-7e63-492a-b239-f9a379c4c5d4" name="Changes" comment="bank charges">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.7_Restaurant_Selector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.7_Restaurant_Selector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.8_Bank_Charges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.8_Bank_Charges.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="publishing Files" />
     <MESSAGE value="update running the race" />
-    <option name="LAST_COMMIT_MESSAGE" value="update running the race" />
+    <MESSAGE value="bank charges" />
+    <option name="LAST_COMMIT_MESSAGE" value="bank charges" />
   </component>
 </project>
