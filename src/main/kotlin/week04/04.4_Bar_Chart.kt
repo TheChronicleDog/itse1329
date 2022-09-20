@@ -1,5 +1,5 @@
 package week04
-
+//Picard, 04.4, 9/20/22
 import java.util.Scanner
 fun main(){
     val store1Sales = getValue(1)
