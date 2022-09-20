@@ -1,5 +1,5 @@
 package week04
-//Walter, 04.1, 9/20/22
+//Walter, 04.2, 9/20/22
 import java.util.*
 fun main(){
     val word = inforAsk("Please enter a string >> ")
