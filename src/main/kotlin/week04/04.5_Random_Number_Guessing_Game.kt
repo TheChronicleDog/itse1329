@@ -11,8 +11,8 @@ fun main() {
     while (newVal != random) {
         if (newVal > random) {
             println("Too high, try again")
-        } 
-        else if (newVal < random) {
+        }
+        else {
             println("Too low, try again")
         }
         print("Please guess a value between 0 and 100 including both >> ")
