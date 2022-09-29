@@ -1,4 +1,3 @@
-import java.util.*
 //Hill, 03.8, 9/17/2022
 fun main(){
     val checks = recieveInfo("checks")
@@ -7,10 +6,8 @@ fun main(){
 
 }
 fun recieveInfo(questionType: String): Double {
-    val scanner = Scanner(System.`in`)
     print("How many $questionType have you written this month? >> ")
-    val value = scanner.nextDouble()
-    scanner.nextLine()
+    val value = readln().toDouble()
     return value
 }
 fun calculateChecksAndPrint(checkNum : Double){

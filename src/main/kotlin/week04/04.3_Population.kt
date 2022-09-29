@@ -1,4 +1,3 @@
-import java.util.*
 //Mcfly, 4.3, 9/20/22
 fun main() {
     var startPop = inputInfo("What is the starting number of organisms? >> ")
@@ -18,18 +17,16 @@ fun main() {
 }
 
 fun inputInfo(question: String): Double {
-    val response = Scanner(System.`in`)
     print(question)
-    return response.nextDouble()
+    return readln().toDouble()
 }
 fun misInputCheck(value: Double, bottomRange: Double, restateQuestion:String):Double{
-    val response = Scanner(System.`in`)
     var newValue= value
     while((newValue < bottomRange)) {//error message
         println("ERROR Please enter a valid value")
         println("")
         println(restateQuestion)
-        newValue =  response.nextDouble()
+        newValue =  readln().toDouble()
     }
     return newValue
 

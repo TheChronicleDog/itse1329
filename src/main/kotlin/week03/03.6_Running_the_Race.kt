@@ -1,5 +1,3 @@
-import java.util.*
-
 fun main() {
 
     val name1 = setName("first")
@@ -30,13 +28,11 @@ fun main() {
 }
 
 fun setName(order: String): String {
-    val scanner = Scanner(System.`in`)
     print("Please enter $order name >> ")
-    return scanner.nextLine()
+    return readln()
 }
 
 fun setTime(order: String): Int {
-    val scanner = Scanner(System.`in`)
     print("Please enter $order time >> ")
-    return scanner.nextInt()
+    return readln().toInt()
 }

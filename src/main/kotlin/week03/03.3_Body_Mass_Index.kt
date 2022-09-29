@@ -1,14 +1,8 @@
-import java.util.Scanner
-
 fun main() {
-    val scanner = Scanner(System.`in`)
-
     print("What is your weight (pounds) >> ")
-    val weight = scanner.nextInt()
-    scanner.nextLine()
+    val weight = readln().toInt()
     print("What is your height (inches) >> ")
-    val height = scanner.nextInt()
-    scanner.nextLine()
+    val height = readln().toInt()
 
     val BMI = (weight * 703) / (height * height)
 

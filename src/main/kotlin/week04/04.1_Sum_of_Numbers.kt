@@ -1,6 +1,5 @@
 package week04
 //Walter, 04.1, 9/20/22
-import java.util.*
 fun main(){
     val integerVal = infoAsk("Please input a positive non-zero integer >>")
     var sum = 0
@@ -14,8 +13,7 @@ fun main(){
 }
 
 fun infoAsk(askType: String): Int {
-    val scanner = Scanner(System.`in`)
     print(askType)
-    return scanner.nextInt()
+    return readln().toInt()
 }
 

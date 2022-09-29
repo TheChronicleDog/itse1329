@@ -1,17 +1,12 @@
-import java.util.Scanner
 fun main() {
-    val reader = Scanner(System.`in`)
-    var day:Int = 2
-    var month:Int= 11
-    var year:Int= 22
     var isMagic:Boolean
 
     println("Please input the month as a number: ")
-    month = reader.nextInt()
+    val month:Int = readln().toInt()
     println("Please input the day as a number: ")
-    day = reader.nextInt()
+    val day:Int = readln().toInt()
     println("Please input the last two digits of the year: ")
-    year = reader.nextInt()
+    val year:Int = readln().toInt()
 
     isMagic = day*month == year
 

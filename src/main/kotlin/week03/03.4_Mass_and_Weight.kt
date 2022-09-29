@@ -1,9 +1,6 @@
-import java.util.Scanner
-
 fun main() {
-    val scanner = Scanner(System.`in`)
     print("What is the mass? (Kilos) >> ")
-    val mass = scanner.nextInt()
+    val mass = readln().toInt()
 
     val weight = mass * 9.8
 

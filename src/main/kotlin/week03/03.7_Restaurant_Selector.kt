@@ -1,4 +1,3 @@
-import java.util.*
 //[REDACTED], 03.7, 9/15/22
 fun main() {
     val doesContainVegan = infoAsk("a Vegan")
@@ -19,9 +18,8 @@ fun main() {
 }
 
 fun infoAsk(askType: String): Boolean {
-    val scanner = Scanner(System.`in`)
     println("Is anyone in your party $askType?")
-    return scanner.nextLine().lowercase() == "yes"
+    return readln().lowercase() == "yes"
 }
 
 fun narrowField(vegan: Boolean, vegetarian: Boolean, nonGluten: Boolean, restaurants: MutableList<String>): MutableList<String> {

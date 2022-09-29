@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="023e6dce-7e63-492a-b239-f9a379c4c5d4" name="Changes" comment="Publishing 04.6 ESP Game &amp; Updating Some Others">
+    <list default="true" id="023e6dce-7e63-492a-b239-f9a379c4c5d4" name="Changes" comment="Replacing Java.util.Scanner variables and values with readln()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.7_Cookie_Calorie_Calculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.7_Cookie_Calorie_Calculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.8_String_Manipulation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.8_String_Manipulation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week02/02.9_Compound_Interest .kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week02/02.9_Compound_Interest .kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.1_Roman_Numerals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.1_Roman_Numerals.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.2_Magic_Dates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.2_Magic_Dates.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.3_Body_Mass_Index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.3_Body_Mass_Index.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.4_Mass_and_Weight.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.4_Mass_and_Weight.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.5_Sorted_Names.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.5_Sorted_Names.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.6_Running_the_Race.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.6_Running_the_Race.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.7_Restaurant_Selector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.7_Restaurant_Selector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week03/03.8_Bank_Charges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week03/03.8_Bank_Charges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week04/04.1_Sum_of_Numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week04/04.1_Sum_of_Numbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week04/04.2_Letter_Counter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week04/04.2_Letter_Counter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/week04/04.3_Population.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/week04/04.3_Population.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663857441929</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updating 03.6 Running_the_race">
+      <created>1663857931685</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663857931685</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +192,8 @@
     <MESSAGE value="Publishing 04.4 Bar Chart" />
     <MESSAGE value="Publishing 04.5 random number game" />
     <MESSAGE value="Publishing 04.6 ESP Game &amp; Updating Some Others" />
-    <option name="LAST_COMMIT_MESSAGE" value="Publishing 04.6 ESP Game &amp; Updating Some Others" />
+    <MESSAGE value="Updating 03.6 Running_the_race" />
+    <MESSAGE value="Replacing Java.util.Scanner variables and values with readln()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replacing Java.util.Scanner variables and values with readln()" />
   </component>
 </project>

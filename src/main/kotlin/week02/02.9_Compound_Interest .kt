@@ -1,5 +1,5 @@
-import java.util.*
 import kotlin.math.pow
+
 fun main() {
     val principalVal = askForInfo("principal deposited")
     val interestVal = askForInfo("interest rate")
@@ -10,10 +10,9 @@ fun main() {
 }
 
 fun askForInfo(questionType: String): Double {
-    val scanner = Scanner(System.`in`)
+
     print("What was the $questionType? >> ")
-    val value = scanner.nextDouble()
-    scanner.nextLine()
+    val value = readln().toDouble()
     return value
 }
 

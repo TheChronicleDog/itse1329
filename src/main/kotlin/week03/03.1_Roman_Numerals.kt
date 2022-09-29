@@ -1,10 +1,8 @@
-import java.util.Scanner
 fun main() {
-    var number:Int
     var numberString:String
-    val reader = Scanner(System.`in`)
+
     println("Please enter a number between 1 and 10: ")
-    number = reader.nextInt()
+    val number:Int = readln().toInt()
 
     when (number){
         1 -> numberString = "I"
