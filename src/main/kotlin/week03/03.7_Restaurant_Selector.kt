@@ -1,15 +1,14 @@
-import java.util.*
 //[REDACTED], 03.7, 9/15/22
 fun main() {
     val doesContainVegan = infoAsk("a Vegan")
     val doesContainVegetarian = infoAsk("a Vegetarian")
     val doesContainGlutenFree = infoAsk("gluten-free")
 
-    var restaurants = mutableListOf(
+    val restaurants = mutableListOf(
         "Joe’s Gourmet Burgers", "Main Street Pizza Company", "Corner Café", "Mama’s Fine Italian",
         "The Chef’s Kitchen"
     )
-    var narrowedRestaurants = narrowField(doesContainVegetarian,doesContainVegan,doesContainGlutenFree, restaurants)
+    val narrowedRestaurants = narrowField(doesContainVegetarian,doesContainVegan,doesContainGlutenFree, restaurants)
 
     println("Here are you restaurant choices:")
     println("")
@@ -19,9 +18,8 @@ fun main() {
 }
 
 fun infoAsk(askType: String): Boolean {
-    val scanner = Scanner(System.`in`)
     println("Is anyone in your party $askType?")
-    return scanner.nextLine().lowercase() == "yes"
+    return readln().lowercase() == "yes"
 }
 
 fun narrowField(vegan: Boolean, vegetarian: Boolean, nonGluten: Boolean, restaurants: MutableList<String>): MutableList<String> {

@@ -1,5 +1,3 @@
-import java.util.*
-
 fun main() {
 
     val name1 = setName("first")
@@ -23,20 +21,18 @@ fun main() {
     nameList[time3Index] = name3.capitalize()
 
     println("First place with ${timeList.elementAt(0)} minutes : ${nameList.elementAt(0)}")
-    println("First place with ${timeList.elementAt(1)} minutes : ${nameList.elementAt(1)}")
-    println("First place with ${timeList.elementAt(2)} minutes : ${nameList.elementAt(2)}")
+    println("Second place with ${timeList.elementAt(1)} minutes : ${nameList.elementAt(1)}")
+    println("Third place with ${timeList.elementAt(2)} minutes : ${nameList.elementAt(2)}")
 
 
 }
 
 fun setName(order: String): String {
-    val scanner = Scanner(System.`in`)
     print("Please enter $order name >> ")
-    return scanner.nextLine()
+    return readln()
 }
 
 fun setTime(order: String): Int {
-    val scanner = Scanner(System.`in`)
     print("Please enter $order time >> ")
-    return scanner.nextInt()
+    return readln().toInt()
 }

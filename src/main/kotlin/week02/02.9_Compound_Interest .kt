@@ -1,5 +1,3 @@
-import java.nio.DoubleBuffer
-import java.util.*
 import kotlin.math.pow
 
 fun main() {
@@ -12,10 +10,9 @@ fun main() {
 }
 
 fun askForInfo(questionType: String): Double {
-    val scanner = Scanner(System.`in`)
+
     print("What was the $questionType? >> ")
-    val value = scanner.nextDouble()
-    scanner.nextLine()
+    val value = readln().toDouble()
     return value
 }
 
