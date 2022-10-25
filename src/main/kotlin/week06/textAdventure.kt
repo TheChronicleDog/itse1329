@@ -1,4 +1,5 @@
 fun main() {
+
     var currentLocation = "northHall"
     while (true) {
         currentLocation = currentLocInfo(currentLocation)
